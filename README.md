@@ -15,18 +15,19 @@ _Puedes descargar el repositorio y consultar el Código en lenguaje de programac
 
 ### Prerrequisitos 📋
 
-_Para poder observar en análisis, gráficas y datos que se presentan en este proyecto, debes tener instalado el lenguaje de programación Python en tu ordenador, así como cualquier IDE que pueda soportar este lenguaje, te recomendamos "VScode", "Anaconda", "JupiterNotebooks", pero una opción mas sencilla es utilizar y ejecutar el script en Google Colab si así lo deseas._
+_Para poder observar en análisis, gráficas y datos que se presentan en este proyecto, debes tener instalado el lenguaje de programación **Python** en tu ordenador, así como cualquier IDE que pueda soportar este lenguaje, te recomendamos "VScode", "Anaconda", "JupiterNotebooks", pero una opción mas sencilla es utilizar y ejecutar el script en Google Colab si así lo deseas._
 
 _De igual forma debes se debe tener en cuenta que se ocuparon API y data-sets de páginas como **Kaggle**, así que es de suma importancia tener descargados estos data-sets o tener la URL de la API para apreciar el análisis completo_
 
-```
+```python
 # Obtener datos de una API
 
 #Url para obtener casos actuales de COVID
 url = 'https://corona.lmao.ninja/v2/historical?lastdays=1'
-```
 
 ```
+
+```python
 #Obtenemos la respuesta y la convertimos a json
 r = requests.get(url)
 json = r.json()
@@ -38,7 +39,7 @@ _Para el desarrollo del Código se utilizaron ciertas librerías de Python que f
 
 _Las librerías son las siguientes:_
 
-```
+```python
 #Cargar las librerias
 import pandas as pd
 import requests
@@ -49,7 +50,7 @@ import requests
 
 _Hay librerías que Python ya tiene preinstaladas pero algunas de ellas tú las debes instalar, por ejemplo:_
 
-```
+```python
 # Librerias a instalar
 .....
 .....
