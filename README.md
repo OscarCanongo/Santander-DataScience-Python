@@ -61,7 +61,7 @@ _Con todo lo anterior contemplado, se puede correr el Código y observar el aná
 
 ## Desarrollo y Análisis de gravedad y letalidad del virus SARS-CoV-2(Covid-19) ⚙️
 
-### <img src="./images/covid19.jpg" alt="Covid-19" width="80"/> Análisis de la Pandemia Covid-19 ⚙️
+### <img src="./images/covid19.jpg" alt="Covid-19" width="200"/> Análisis de la Pandemia Covid-19 ⚙️
 
 
 
