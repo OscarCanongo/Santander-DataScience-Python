@@ -43,18 +43,22 @@ _Las librerías son las siguientes:_
 #Cargar las librerias
 import pandas as pd
 import requests
-.....
-.....
-.....
+import matplotlib.pyplot as plt
+import os
+import numpy as np
+import seaborn as sns
+from datetime import datetime
 ```
 
 _Hay librerías que Python ya tiene preinstaladas pero algunas de ellas tú las debes instalar, por ejemplo:_
 
 ```python
 # Librerias a instalar
-.....
-.....
-.....
+pip install seaborn
+pip install numpy
+pip install os
+........
+........
 ```
 
 _Con todo lo anterior contemplado, se puede correr el Código y observar el análisis del proyecto._
