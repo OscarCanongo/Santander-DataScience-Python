@@ -1,6 +1,6 @@
 # Equipo 24 proyecto final
 
-# Análisis de gravedad y letalidad del virus SARS-CoV-2(Covid-19) ⚙️
+# Análisis las implicaciones económicas y escolares del virus SARS-CoV-2(Covid-19) ⚙️
 
 _Conociendo la gravedad de la situación que vivimos en la actualidad, es de suma importancia analizar algunos detalles que han influenciado que esta pandemia tenga tantas repercusiones y cambios en nuestras vidas._
 
