@@ -63,12 +63,14 @@ _Con todo lo anterior contemplado, se puede correr el Código y observar el aná
 
 ### <img src="./images/covid19.jpg" alt="Covid-19" width="200"/> Análisis de la Pandemia Covid-19 ⚙️
 
-_El link al script del proyecto en colab lo encuentras dando click en el siguiente texto_ [Proyecto Fanal](https://colab.research.google.com/drive/1AMctOqrPYcWz7FUZdOc3o5aA09oRUZm6?usp=sharing#scrollTo=Y16GyPxssp-J)
+_El link al script del proyecto en colab lo encuentras dando click en el siguiente texto_ [Proyecto Fanal](https://colab.research.google.com/drive/1AluD2MxsyCHlfisPtPyQAGkY3xXQNMnN#scrollTo=dyKiFWwUwgBU)
 
 ## Autores ✒️
 
 _Este proyecto fue realizado por el equipo 24 del programa Santander-DataScience, cuyos integrantes son:_
 
+**Equipo 24:**
 - **Oscar Cañongo** - \*\* - [OscarCanongo](https://github.com/OscarCanongo)
 - **Andres** - \*\* - [andresam0301](https://github.com/andresam0301)
 - **Daniel Arellano** - \*\* - [Tachuelin](https://github.com/Tachuelin)
+- **Miguel Toledo** - \*\* -[josemigueltr](https://github.com/josemigueltr)
