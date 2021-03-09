@@ -12,6 +12,7 @@ _Puedes descargar el repositorio y consultar el Código en lenguaje de programac
 
 - Dando clic en **Code** en el repositorio y después **Download ZIP**..
 - Haciendo un **Git clone** del repositorio directamente en tu computadora
+- Ingresando a Google Colab [Proyecto Final](https://colab.research.google.com/drive/1AluD2MxsyCHlfisPtPyQAGkY3xXQNMnN?usp=sharing)
 
 ### Prerrequisitos 📋
 
@@ -38,12 +39,6 @@ from datetime import datetime
 ```
 
 _Con todo lo anterior contemplado, se puede correr el Código y observar el análisis del proyecto._
-
-## Desarrollo y Análisis de gravedad y letalidad del virus SARS-CoV-2(Covid-19) ⚙️
-
-### <img src="./images/covid19.jpg" alt="Covid-19" width="200"/> Análisis de la Pandemia Covid-19 ⚙️
-
-_El link al script del proyecto en colab lo encuentras dando click en el siguiente texto_ [Proyecto Final](https://colab.research.google.com/drive/1AluD2MxsyCHlfisPtPyQAGkY3xXQNMnN?usp=sharing)
 
 ## Autores ✒️
 
