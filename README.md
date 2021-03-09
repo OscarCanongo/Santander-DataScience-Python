@@ -19,19 +19,6 @@ _Para poder observar en análisis, gráficas y datos que se presentan en este pr
 
 _De igual forma debes se debe tener en cuenta que se ocuparon API y data-sets de páginas como **Kaggle**, así que es de suma importancia tener descargados estos data-sets o tener la URL de la API para apreciar el análisis completo_
 
-```python
-# Obtener datos de una API
-
-#Url para obtener casos actuales de COVID
-url = 'https://corona.lmao.ninja/v2/historical?lastdays=1'
-
-```
-
-```python
-#Obtenemos la respuesta y la convertimos a json
-r = requests.get(url)
-json = r.json()
-```
 
 ### Instalación 🔧
 
@@ -48,17 +35,6 @@ import os
 import numpy as np
 import seaborn as sns
 from datetime import datetime
-```
-
-_Hay librerías que Python ya tiene preinstaladas pero algunas de ellas tú las debes instalar, por ejemplo:_
-
-```python
-# Librerias a instalar
-pip install seaborn
-pip install numpy
-pip install os
-........
-........
 ```
 
 _Con todo lo anterior contemplado, se puede correr el Código y observar el análisis del proyecto._
