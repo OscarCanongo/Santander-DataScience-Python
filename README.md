@@ -67,7 +67,7 @@ _Con todo lo anterior contemplado, se puede correr el Código y observar el aná
 
 ### <img src="./images/covid19.jpg" alt="Covid-19" width="200"/> Análisis de la Pandemia Covid-19 ⚙️
 
-_El link al script del proyecto en colab lo encuentras dando click en el siguiente texto_ [Proyecto Fanal](https://colab.research.google.com/drive/1AluD2MxsyCHlfisPtPyQAGkY3xXQNMnN#scrollTo=dyKiFWwUwgBU)
+_El link al script del proyecto en colab lo encuentras dando click en el siguiente texto_ [Proyecto Final](https://colab.research.google.com/drive/1AluD2MxsyCHlfisPtPyQAGkY3xXQNMnN?usp=sharing)
 
 ## Autores ✒️
 
