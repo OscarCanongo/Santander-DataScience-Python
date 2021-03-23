@@ -1,6 +1,6 @@
 # Equipo 24 proyecto final
 
-# Análisis de gravedad y letalidad del virus SARS-CoV-2(Covid-19) ⚙️
+# Análisis las implicaciones económicas y escolares del virus SARS-CoV-2(Covid-19) ⚙️
 
 _Conociendo la gravedad de la situación que vivimos en la actualidad, es de suma importancia analizar algunos detalles que han influenciado que esta pandemia tenga tantas repercusiones y cambios en nuestras vidas._
 
@@ -12,6 +12,7 @@ _Puedes descargar el repositorio y consultar el Código en lenguaje de programac
 
 - Dando clic en **Code** en el repositorio y después **Download ZIP**..
 - Haciendo un **Git clone** del repositorio directamente en tu computadora
+- Ingresando a Google Colab [Proyecto Final](https://colab.research.google.com/drive/1AluD2MxsyCHlfisPtPyQAGkY3xXQNMnN?usp=sharing)
 
 ### Prerrequisitos 📋
 
@@ -19,19 +20,6 @@ _Para poder observar en análisis, gráficas y datos que se presentan en este pr
 
 _De igual forma debes se debe tener en cuenta que se ocuparon API y data-sets de páginas como **Kaggle**, así que es de suma importancia tener descargados estos data-sets o tener la URL de la API para apreciar el análisis completo_
 
-```python
-# Obtener datos de una API
-
-#Url para obtener casos actuales de COVID
-url = 'https://corona.lmao.ninja/v2/historical?lastdays=1'
-
-```
-
-```python
-#Obtenemos la respuesta y la convertimos a json
-r = requests.get(url)
-json = r.json()
-```
 
 ### Instalación 🔧
 
@@ -50,24 +38,7 @@ import seaborn as sns
 from datetime import datetime
 ```
 
-_Hay librerías que Python ya tiene preinstaladas pero algunas de ellas tú las debes instalar, por ejemplo:_
-
-```python
-# Librerias a instalar
-pip install seaborn
-pip install numpy
-pip install os
-........
-........
-```
-
 _Con todo lo anterior contemplado, se puede correr el Código y observar el análisis del proyecto._
-
-## Desarrollo y Análisis de gravedad y letalidad del virus SARS-CoV-2(Covid-19) ⚙️
-
-### <img src="./images/covid19.jpg" alt="Covid-19" width="200"/> Análisis de la Pandemia Covid-19 ⚙️
-
-_El link al script del proyecto en colab lo encuentras dando click en el siguiente texto_ [Proyecto Fanal](https://colab.research.google.com/drive/1AluD2MxsyCHlfisPtPyQAGkY3xXQNMnN#scrollTo=dyKiFWwUwgBU)
 
 ## Autores ✒️
 
